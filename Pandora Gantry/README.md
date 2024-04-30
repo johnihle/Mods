@@ -7,6 +7,7 @@ These would be considered proof of concept at this stage. They work, I have prin
 I do plan to create better versions of them using CAD, but I am just starting out and it may take awhile or never happen.
 
 Settings for your printer after install:
+
 Y stepper endstop and position max should be 114 (Yes you lose 6mm of Y travel, remember proof of concept)
 Y stepper position min should be 0
 X stepper endstop and position max should be 131
