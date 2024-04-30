@@ -2,3 +2,14 @@ These are .3MF files that contain modified Pandora's Box and Pandora Gantry for 
 
 Things to note. Files are .3MF because exporting them as .STL doesn't keep the negative space objects (or I'm just doing it wrong). 
 Do not repair the files. For whatever reason with some of the files get repaired they don't print the interposed objects as a single part.
+
+These would be considered proof of concept at this stage. They work, I have printed and installed them on my Tri-Zero, but they are far from perfect. 
+I do plan to create better versions of them using CAD, but I am just starting out and it may take awhile or never happen.
+
+Settings for your printer after install:
+Y stepper endstop and position max should be 114 (Yes you lose 6mm of Y travel, remember proof of concept)
+Y stepper position min should be 0
+X stepper endstop and position max should be 131
+X stepper position min should be -11 (this number might change depending on the toolhead being used)
+
+I use Dragon Burner with Zero Click and for docking and undocking use -6,114
