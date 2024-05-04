@@ -5,6 +5,8 @@ With that in mind make sure to switch back to your settings in the slicer.
 Do not repair the files. For whatever reason with some of the files get repaired they don't print the interposed objects as a single part.
 I have included the modified X carriage that I made for the Dragon Burner toolhead. I modified this one in CAD and thus it is an actual STL.
 
+For the A and B drive's I follow the bearing stacks as set up in Pandora's Box instruction manual. One of the pictures uploaded shows how to deal with the outer bearing stacks on the Y extrusion as this is slightly different.
+
 These would be considered proof of concept at this stage. They work, I have printed and installed them on my Tri-Zero, but they are far from perfect. 
 I do plan to create better versions of them using CAD, but I am just starting out and it may take awhile or never happen.
 
