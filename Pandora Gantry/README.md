@@ -1,7 +1,9 @@
 These are .3MF files that contain modified Pandora's Box and Pandora Gantry for use with a Box-Zero format printer. 
 
 Things to note. Files are .3MF because exporting them as .STL doesn't keep the negative space objects (or I'm just doing it wrong). 
+With that in mind make sure to switch back to your settings in the slicer.
 Do not repair the files. For whatever reason with some of the files get repaired they don't print the interposed objects as a single part.
+I have included the modified X carriage that I made for the Dragon Burner toolhead. I modified this one in CAD and thus it is an actual STL.
 
 These would be considered proof of concept at this stage. They work, I have printed and installed them on my Tri-Zero, but they are far from perfect. 
 I do plan to create better versions of them using CAD, but I am just starting out and it may take awhile or never happen.
