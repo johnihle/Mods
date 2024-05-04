@@ -12,13 +12,13 @@ I do plan to create better versions of them using CAD, but I am just starting ou
 
 Settings for your printer after install:
 
-Y stepper endstop and position max should be 114 (Yes you lose 6mm of Y travel, remember proof of concept)
-Y stepper position min should be 0
-X stepper endstop and position max should be 131
-X stepper position min should be -11 (this number might change depending on the toolhead being used)
+Y stepper endstop and position max should be 114 (Yes you lose 6mm of Y travel, remember proof of concept).
+Y stepper position min should be 0.
+X stepper endstop and position max should be 131.
+X stepper position min should be -11 (this number might change depending on the toolhead being used).
 
-I use Dragon Burner with Zero Click and for docking and undocking use -6,114
+I use Dragon Burner with Zero Click and for docking and undocking use -6,114.
 
 I use the stock Pandora's Box XY Joints.
 
-There is possibly other stuff I forgot. Just message me on discord with any questions. @ax4xse7en (John)
+There is possibly other stuff I forgot. Just message me on discord with any questions. @ax4xse7en (John).
